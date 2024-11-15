@@ -2,3 +2,5 @@ What is webhook
 What is csrf
 What is injection in database
 Switch case
+Api and rest api
+Cross access
